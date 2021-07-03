@@ -7,19 +7,19 @@ This course is closely around the latest development of deep learning theory. It
 
 
 The topics and the corresponding material are as follows:
-  1. **Introduction to Deep Learning**  [material](#Introduction to deep learning) 
-  2. **Approximation Theory of Neural Networks** [material](#Approximation Theory of Neural Networks) 
-  3. **Algorithmic Regularization** [material](#Algorithmic Regularization)
-  4. **Inductive Biases due to Algorithmic Regularization** [material](#Inductive Biases due to Algorithmic Regularization) 
-  5. **Tractable Landscapes for Nonconvex Optimization** [material](#Tractable Landscapes for Nonconvex Optimization)
-  6. **Neural Tangent Kernel** [material](#Neural Tangent Kernel)
-  7. **Multilayer Convolutional Sparse Coding** [material](#Multilayer Convolutional Sparse Coding)
-  8. **Information Bottleneck and Others** [material](#Information Bottleneck and Others)
-  9. **The Fragility of Neural Networks** [material](#The Fragility of Neural Networks) 
-  10. **Neural ODEs** [material](#Neural ODEs) 
-  11. **Neural Networks Learn the Geodesic Curve in the Wasserstein Space**[material](#Neural Networks Learn the Geodesic Curve in the Wasserstein Space)
-  12. **Generative Model：GAN, VAE and Roundtrip**[material](#Generative Model：GAN, VAE and Roundtrip)
-  13. **Interpretability of Neural Networks, Frequency principle**[material](#Interpretability of Neural Networks, Frequency principle)
+  1. **Introduction to Deep Learning**  [material](#Introduction-to-deep-learning) 
+  2. **Approximation Theory of Neural Networks** [material](#Approximation-Theory-of-Neural-Networks) 
+  3. **Algorithmic Regularization** [material](#Algorithmic-Regularization)
+  4. **Inductive Biases due to Algorithmic Regularization** [material](#Inductive-Biases-due-to-Algorithmic-Regularization) 
+  5. **Tractable Landscapes for Nonconvex Optimization** [material](#Tractable-Landscapes-for-Nonconvex-Optimization)
+  6. **Neural Tangent Kernel** [material](#Neural-Tangent-Kernel)
+  7. **Multilayer Convolutional Sparse Coding** [material](#Multilayer-Convolutional-Sparse-Coding)
+  8. **Information Bottleneck and Others** [material](#Information-Bottleneck-and-Others)
+  9. **The Fragility of Neural Networks** [material](#The-Fragility-of-Neural-Networks) 
+  10. **Neural ODEs** [material](#Neural-ODEs) 
+  11. **Neural Networks Learn the Geodesic Curve in the Wasserstein Space**[material](#Neural-Networks-Learn-the-Geodesic-Curve-in-the-Wasserstein-Space)
+  12. **Generative Model：GAN, VAE and Roundtrip**[material](#Generative-Model：-GAN,-VAE-and-Roundtrip)
+  13. **Interpretability of Neural Networks, Frequency principle**[material](#Interpretability-of-Neural-Networks,-Frequency-principle)
 
 ##  Prerequisites
 
