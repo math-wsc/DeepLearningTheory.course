@@ -1,21 +1,56 @@
-# DeepLearningTheory.course
+# Deep Learning Theory
 
 ## About the Course
-Data science is a "concept to unify statistics, data analysis, machine learning and their related methods" in order to "understand and analyze actual phenomena" with data<sup>[1](#myfootnote1)</sup>.  With the development of the technologies of data collection and storage, big data emerges from various fields.   It brings great opportunities for researchers. Many algorithms have been proposed , and most of them involve intensive matrix optimization techniques.  This course covers ten important topics of “Data Science” (one topic per week).  It is intended to teach mathematical models, matrix optimization models, algorithms and applications related to ten basic problems from practical problems and real-world data. This course is designed for doctoral, postgraduate and upper-level undergraduate students in all majors.
+In recent years, deep learning has made great progress. It is widely used in many fields, such as computer vision, speech recognition, natural language processing, bioinformatics, etc., and has a significant impact on basic science fields, such as applied and computational mathematics, statistical physics, computational chemistry and materials science, life science, etc. However, it should be noted that deep learning as a black-box model, its ability is explored through a large number of experiments. The theory of deep learning has gradually attracted the attention of researchers, and has made progress in many aspects.
 
-The ten topics and the corresponding material are as follows:
- 1. **Robust PCA**  [material](#Robust-Principal-Component-Analysis) [slides](./course_files/lecture_slides/RobustPCA.pdf)
- 2. **Non-negative Matrix Factorization** [material](#Nonnegative-Matrix-Factorization) [slides](./course_files/lecture_slides/NMF.pdf)
-  3. **Matrix Completion** [material](#Matrix-Completion) [slides](./course_files/lecture_slides/MatrixCompletion.pdf)
-  4. **Sparse Coding** [material](#Sparse-Coding) [slides](./course_files/lecture_slides/SparseCoding.pdf)
-  5. **Sparse Sensing** [material](#Sparse-Sensing) [slides](./course_files/lecture_slides/CompressedSensing.pdf)
-  6. **Subspace Clustering** [material](#Subspace-Clustering) [slides](./course_files/lecture_slides/SubspaceClustering.pdf)
-  7. **Precision Matrix Estimation** [material](#Precision-Matrix-Estimation) [slides](./course_files/lecture_slides/PrecisionEstimation.pdf)
-  8. **Nonlinear Manifold Learning** [material](#Nonlinear-Manifold-Learning) [slides](./course_files/lecture_slides/NonlinearManifoldLearning.pdf)
-  9. **Manifold Alignment** [material](#Manifold-Alignment) [slides](./course_files/lecture_slides/ManifoldAlignment.pdf)
-  10. **Tensor Factorization** [material](#Tensor-Factorization) [slides](./course_files/lecture_slides/TensorFactorization.pdf)
+This course is closely around the latest development of deep learning theory. It intends to teach mathematical models, theories, algorithms and numerical experiments related to a series of basic problems from multiple perspectives of deep learning theory. This course is designed for doctoral, master's and senior undergraduate students of various majors. They are required to have basic knowledge of machine learning and deep learning.
+
+
+The topics and the corresponding material are as follows:
+  1. **Introduction to Deep Learning**  [material](#Introduction to deep learning) 
+  2. **Approximation Theory of Neural Networks** [material](#Approximation Theory of Neural Networks) 
+  3. **Algorithmic Regularization** [material](#Algorithmic Regularization)
+  4. **Inductive Biases due to Algorithmic Regularization** [material](#Inductive Biases due to Algorithmic Regularization) 
+  5. **Tractable Landscapes for Nonconvex Optimization** [material](#Tractable Landscapes for Nonconvex Optimization)
+  6. **Neural Tangent Kernel** [material](#Neural Tangent Kernel)
+  7. **Multilayer Convolutional Sparse Coding** [material](#Multilayer Convolutional Sparse Coding)
+  8. **Information Bottleneck and Others** [material](#Information Bottleneck and Others)
+  9. **The Fragility of Neural Networks** [material](#The Fragility of Neural Networks) 
+  10. **Neural ODEs** [material](#Neural ODEs) 
+  11. **Neural Networks Learn the Geodesic Curve in the Wasserstein Space**[material](#Neural Networks Learn the Geodesic Curve in the Wasserstein Space)
+  12. **Generative Model：GAN, VAE and Roundtrip**[material](#Generative Model：GAN, VAE and Roundtrip)
+  13. **Interpretability of Neural Networks, Frequency principle**[material](#Interpretability of Neural Networks, Frequency principle)
 
 ##  Prerequisites
 
 Mathematical Analysis, Linear Algebra, Mathematical Statistics, Numerical Optimization, Matrix Theory, Fundamentals of Machine Learning and Deep Learning
+
+## Introduction to Deep Learning
+
+## Approximation Theory of Neural Networks
+
+## Algorithmic Regularization
+
+## Inductive Biases due to Algorithmic Regularization
+
+## Tractable Landscapes for Nonconvex Optimization 
+
+## Neural Tangent Kernel
+
+## Multilayer Convolutional Sparse Coding
+
+## Information Bottleneck and Others
+
+## The Fragility of Neural Networks
+
+## Neural ODEs
+
+## Neural Networks Learn the Geodesic Curve in the Wasserstein Space
+
+## Generative Model：GAN, VAE and Roundtrip
+
+## Interpretability of Neural Networks, Frequency Principle
+
+
+
 
